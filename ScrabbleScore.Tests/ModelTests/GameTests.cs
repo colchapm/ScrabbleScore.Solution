@@ -22,6 +22,21 @@ namespace ScrabbleScore.TestTools
       //Assert
       Assert.AreEqual(score, result);
     }
+
+    [TestMethod]
+    public void CheckScrabbleScore_SplitWord_array()
+    {
+      //Arrange
+      string userEnteredText = "scrabble";
+      string[] splitTest = {"s", "c", "r", "a", "b", "b", "l", "e"};
+      CheckScrabbleScore testObject = new CheckScrabbleScore();
+
+      //Act
+      int result = testObject.CheckScore(userEnteredText);
+
+      //Assert
+      Assert.AreEqual(splitTest, result);
+    }
   }
 
 }

@@ -9,7 +9,9 @@ namespace ScrabbleScore.Models
       Dictionary<string, int> scorecard = new Dictionary<string, int>() { 
         {"a", 1}
       };
-        return scorecard["a"];
+      char[] splitWord = userEnteredText.ToCharArray();
+      // string[] splitWord = userEnteredText.Split();
+        return scorecard[userEnteredText];
     }
 
   }
