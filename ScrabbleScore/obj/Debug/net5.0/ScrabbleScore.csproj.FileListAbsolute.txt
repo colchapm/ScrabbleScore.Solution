@@ -1,0 +1,12 @@
+/Users/cchap14/Desktop/epicodus-jan/c#/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net5.0/ScrabbleScore.csprojAssemblyReference.cache
+/Users/cchap14/Desktop/epicodus-jan/c#/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net5.0/ScrabbleScore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cchap14/Desktop/epicodus-jan/c#/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net5.0/ScrabbleScore.AssemblyInfoInputs.cache
+/Users/cchap14/Desktop/epicodus-jan/c#/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net5.0/ScrabbleScore.AssemblyInfo.cs
+/Users/cchap14/Desktop/epicodus-jan/c#/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net5.0/ScrabbleScore.csproj.CoreCompileInputs.cache
+/Users/cchap14/Desktop/epicodus-jan/c#/ScrabbleScore.Solution/ScrabbleScore/bin/Debug/net5.0/ScrabbleScore.deps.json
+/Users/cchap14/Desktop/epicodus-jan/c#/ScrabbleScore.Solution/ScrabbleScore/bin/Debug/net5.0/ScrabbleScore.dll
+/Users/cchap14/Desktop/epicodus-jan/c#/ScrabbleScore.Solution/ScrabbleScore/bin/Debug/net5.0/ref/ScrabbleScore.dll
+/Users/cchap14/Desktop/epicodus-jan/c#/ScrabbleScore.Solution/ScrabbleScore/bin/Debug/net5.0/ScrabbleScore.pdb
+/Users/cchap14/Desktop/epicodus-jan/c#/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net5.0/ScrabbleScore.dll
+/Users/cchap14/Desktop/epicodus-jan/c#/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net5.0/ref/ScrabbleScore.dll
+/Users/cchap14/Desktop/epicodus-jan/c#/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/net5.0/ScrabbleScore.pdb
